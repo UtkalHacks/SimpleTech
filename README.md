@@ -1,3 +1,4 @@
+**Note the complete code has not been updated as its a very big files it will be updated soon**
 # SimpleTech
 To run the web app: 
 go to the AgriDoc Folder in web_portion and run the index file on folder
